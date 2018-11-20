@@ -1,0 +1,25 @@
+.box {
+  background-color: #000;
+  color: #fff;
+  height: 25px;
+}
+
+.h-25 {
+  height: 25px;
+}
+
+.h_huge {
+  height: 500px;
+}
+
+.m_special {
+  margin-right: .5em;
+}
+
+.space {
+  padding: 2em 0em;
+}
+
+/* .special_padding {
+  padding: 1em;
+} */
